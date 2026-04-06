@@ -1,0 +1,1 @@
+print("I am", 25, "and the number is", 10)
