@@ -1,3 +1,11 @@
+""" Functions enable you to break down the overall functionality of a script into smaller, logical subsections. These subsections can then be called upon to perform their individual tasks when needed.
+
+Using functions to perform repetitive tasks is an excellent way to create code reuse. This is an important part of modern object-oriented programming principles.
+
+In Python, a function is defined using the def keyword. """
+
+
+
 def my_fun():
     """ This is a simple function that prints a message. """
     print("Hello, World!")
